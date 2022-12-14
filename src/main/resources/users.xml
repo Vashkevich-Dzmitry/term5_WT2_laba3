@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<userList>
+    <user>
+        <login>Dima</login>
+        <password>qwerty</password>
+        <userRole>ADMIN</userRole>
+    </user>
+    <user>
+        <login>sasha</login>
+        <password>123</password>
+        <userRole>USER</userRole>
+    </user>
+    <user>
+        <login>Ivan</login>
+        <password>321</password>
+        <userRole>USER</userRole>
+    </user>
+</userList>
